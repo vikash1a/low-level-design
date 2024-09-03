@@ -62,7 +62,7 @@ classDiagram
     
 ```
 
-### Copied - [src](https://github.com/ashishps1/awesome-low-level-design/blob/main/problems/pub-sub-system.md)
+### copied - [src](https://github.com/ashishps1/awesome-low-level-design/blob/main/problems/pub-sub-system.md)
 ```mermaid
 classDiagram
     class Message{
@@ -100,3 +100,5 @@ classDiagram
      SubscriberImnpl1 --|> Subscriber
      SubscriberImnpl2 --|> Subscriber
 ```
+
+TODO - Handle Concurrency 
