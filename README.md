@@ -9,5 +9,5 @@
 | 2    | Logging Framework | -          | Done   |
 | 3    | Pub Sub System    | -          | Done   |
 | 4    | Tic Tac Toe       | -          | Done   |
-| 5    | Parking Lot       | -          |       |
+| 5    | Parking Lot       | -          |   Done    |
 
