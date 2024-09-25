@@ -10,4 +10,5 @@
 | 3    | Pub Sub System    | -          | Done   |
 | 4    | Tic Tac Toe       | -          | Done   |
 | 5    | Parking Lot       | -          |   Done    |
+| 6    | Car Rental       | -          |     Done  |
 
