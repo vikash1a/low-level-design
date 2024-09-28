@@ -11,4 +11,5 @@
 | 4    | Tic Tac Toe       | -          | Done   |
 | 5    | Parking Lot       | -          |   Done    |
 | 6    | Car Rental       | -          |     Done  |
+| 6    | Movie Ticket Booking       | -          |     Done  |
 
