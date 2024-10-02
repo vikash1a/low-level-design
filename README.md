@@ -3,13 +3,16 @@
  - [low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer)
 
 ## Problems 
-| S.No | Problem           | Difficulty | Status |
-| ---- | ----------------- | ---------- | ------ |
-| 1    | Splitwise         | -          | Done   |
-| 2    | Logging Framework | -          | Done   |
-| 3    | Pub Sub System    | -          | Done   |
-| 4    | Tic Tac Toe       | -          | Done   |
-| 5    | Parking Lot       | -          |   Done    |
-| 6    | Car Rental       | -          |     Done  |
-| 6    | Movie Ticket Booking       | -          |     Done  |
+| S.No | Problem                   | Difficulty | Status |
+| ---- | ------------------------- | ---------- | ------ |
+| 1    | Splitwise                 | Hard       | Done   |
+| 2    | Logging Framework         | Easy       | Done   |
+| 3    | Pub Sub System            | Easy       | Done   |
+| 4    | Tic Tac Toe               | Easy       | Done   |
+| 5    | Parking Lot               | Easy       | Done   |
+| 6    | Car Rental                | Medium     | Done   |
+| 7    | Movie Ticket Booking      | Hard       | Done   |
+| 8    | Online Shopping  - Amazon | Hard       |        |
+| 9    | Social network - Facebook | -          |        |
+| 10   | Ride Sharing - Uber       | -          |        |
 
