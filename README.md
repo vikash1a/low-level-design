@@ -12,7 +12,7 @@
 | 5    | Parking Lot               | Easy       | Done   |
 | 6    | Car Rental                | Medium     | Done   |
 | 7    | Movie Ticket Booking      | Hard       | Done   |
-| 8    | Online Shopping  - Amazon | Hard       |        |
+| 8    | Online Shopping  - Amazon | Hard       | Done   |
 | 9    | Social network - Facebook | -          |        |
 | 10   | Ride Sharing - Uber       | -          |        |
 
