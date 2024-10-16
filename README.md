@@ -14,6 +14,6 @@
 | 7    | Movie Ticket Booking      | Hard       | Done   |
 | 8    | Online Shopping  - Amazon | Hard       | Done   |
 | 9    | Social network - Facebook | Medium     | Done   |
-| 10   | Ride Sharing - Uber       | -          |        |
+| 10   | Ride Sharing - Uber       | Hard         |    Done Partial    |
 
 
