@@ -3,18 +3,17 @@
  - [low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer)
 
 ## Problems 
-| S.No | Problem                   | Difficulty | Status       |
-| ---- | ------------------------- | ---------- | ------------ |
-| 1    | Splitwise                 | Hard       | Done         |
-| 2    | Logging Framework         | Easy       | Done         |
-| 3    | Pub Sub System            | Easy       | Done         |
-| 4    | Tic Tac Toe               | Easy       | Done         |
-| 5    | Parking Lot               | Easy       | Done         |
-| 6    | Car Rental                | Medium     | Done         |
-| 7    | Movie Ticket Booking      | Hard       | Done         |
-| 8    | Online Shopping  - Amazon | Hard       | Done         |
-| 9    | Social network - Facebook | Medium     | Done         |
-| 10   | Ride Sharing - Uber       | Hard       | Done Partial |
-| 11   | Snake and ladder          | Hard       | Done         |
-
-
+| S.No | Problem                      | Difficulty | Status       |
+| ---- | ---------------------------- | ---------- | ------------ |
+| 1    | Splitwise                    | Hard       | Done         |
+| 2    | Logging Framework            | Easy       | Done         |
+| 3    | Pub Sub System               | Easy       | Done         |
+| 4    | Tic Tac Toe                  | Easy       | Done         |
+| 5    | Parking Lot                  | Easy       | Done         |
+| 6    | Car Rental                   | Medium     | Done         |
+| 7    | Movie Ticket Booking         | Hard       | Done         |
+| 8    | Online Shopping  - Amazon    | Hard       | Done         |
+| 9    | Social network - Facebook    | Medium     | Done         |
+| 10   | Ride Sharing - Uber          | Hard       | Done Partial |
+| 11   | Snake and ladder             | Hard       | Done         |
+| 12   | Restaurant Management System | Medium     | Done Partial |
