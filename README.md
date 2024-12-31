@@ -17,4 +17,8 @@
 | 10   | Ride Sharing - Uber          | Hard       | Done Partial |
 | 11   | Snake and ladder             | Hard       | Done         |
 | 12   | Restaurant Management System | Medium     | Done Partial |
-| 13   | Stokc Brokerage System       | Medium     | Done         |
+| 13   | Stock Brokerage System       | Medium     | Done         |
+| 14   | ATM                          | Medium     |              |
+| 14   | Hotel Management             | Medium     |              |
+| 14   | Linkedin                     | Medium     |              |
+
