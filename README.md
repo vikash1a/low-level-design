@@ -2,6 +2,22 @@
  - [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design/tree/main)
  - [low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer)
 
+## What to cover
+- DSA in your preferred language 
+- OOPs Concept
+- UML (Class Diagram, sequence diagram)
+- Design Principles (SOLID, KISS etc)
+- Design Patterns
+- Practice Interview Questions
+
+## How to Solve LLD
+- Clarify requirements
+- Identify entities
+- Create Classess
+  - Identify operations 
+- Implement necessary method
+- Exception handling 
+
 ## Problems 
 | S.No | Problem                      | Difficulty | Status       |
 | ---- | ---------------------------- | ---------- | ------------ |
