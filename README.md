@@ -7,7 +7,9 @@
 - OOPs Concept
 - UML (Class Diagram, sequence diagram)
 - Design Principles (SOLID, KISS etc)
-- Design Patterns
+- [Design Patterns](https://github.com/vikash1a/design-pattern)
+- Concurrency*
+- Database*
 - Practice Interview Questions
 
 ## How to Solve LLD
@@ -35,6 +37,6 @@
 | 12   | Restaurant Management System | Medium     | Done Partial |
 | 13   | Stock Brokerage System       | Medium     | Done         |
 | 14   | ATM                          | Medium     |    Done      |
-| 14   | Hotel Management             | Medium     |              |
-| 14   | Linkedin                     | Medium     |              |
+| 15   | Hotel Management             | Medium     |              |
+| 16   | Linkedin                     | Medium     |              |
 
