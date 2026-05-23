@@ -1,8 +1,0 @@
-PS  
-    self understood
-
-design
-    dict<start,end> stair, Snake 
-
-improvement 
-    State Dp can be done
